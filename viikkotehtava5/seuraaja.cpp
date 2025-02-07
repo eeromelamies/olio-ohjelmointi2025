@@ -13,7 +13,7 @@ string Seuraaja::getNimi()
 
 }
 
-void Seuraaja::paivitys(string)
+void Seuraaja::paivitys(string A)
 {
-
+    cout<<"Seuraaja "<<nimi<<" sai viestin "<<A<<endl;
 }
